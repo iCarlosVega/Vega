@@ -1,0 +1,11 @@
+{
+  "currentPhase": "idle",
+  "status": "healthy",
+  "planApproved": false,
+  "awaitingApprovalFor": null,
+  "availableAgents": ["architect", "backend_dev", "frontend_dev", "qa_tester", "devops"],
+  "executionPipeline": [],
+  "actionQueue": [],
+  "activeBriefs": {},
+  "consultLogs": []
+}

@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/agenttabs.tsx","./src/components/kanbanboard.tsx","./src/components/taskchecklist.tsx","./src/components/terminalstream.tsx","./src/hooks/usewebsocket.ts"],"version":"5.8.3"}
